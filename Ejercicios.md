@@ -3,7 +3,8 @@
 > My hour is almost come,
 > When I to sulphurous and tormenting flames
 > Must render up myself.
-    Abrimos el fichero scene-5.txt con el comando nano scene-5.txt y dentro ponemos el texto de la escena
+    
+Abrimos el fichero scene-5.txt con el comando nano scene-5.txt y dentro ponemos el texto de la escena
 2. Añade scene-5.txt al área de preparación.
 
 Añadimos el fichero con el comando git add scene-5.txt
